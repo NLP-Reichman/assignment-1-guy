@@ -14,7 +14,15 @@
       "en_on_tl": 54.8,
       "en_on_nl": 48.08
     },
-    "test_match": "KeyError('source')",
+    "test_match": {
+      "df_shape": [
+        256,
+        4
+      ],
+      "en_en_3": 9.367302024740138,
+      "en_tl_3": 27.55724217528931,
+      "en_nl_3": 26.124731679625206
+    },
     "test_generate": {
       "english_2_gram": "I amell1Gige omyo & he't",
       "english_3_gram": "I amebompirs ans appree ",
